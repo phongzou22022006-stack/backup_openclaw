@@ -1,4 +1,4 @@
-latest_file=openclaw-backup-20260327-201200.enc
-utc_created=20260327-201200
-reason=setup-test
-state_hash=eb941b36e6f104adc2ec37fe02dae59124361f7d2d2d0b00cf548219fafa31ea
+latest_file=openclaw-backup-20260327-202140.enc
+utc_created=20260327-202140
+reason=windows-task
+state_hash=4651fcd4e530703d7d675eb1d55a0a88fd918c11881a1221e7c7bd44c9313184
