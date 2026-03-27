@@ -1,0 +1,4 @@
+latest_file=openclaw-backup-20260327-195857.enc
+utc_created=20260327-195857
+source_archive=2026-03-27T19-59-00.896Z-openclaw-backup.tar.gz
+source_path=/tmp/openclaw-backup-20260327-195857/2026-03-27T19-59-00.896Z-openclaw-backup.tar.gz
