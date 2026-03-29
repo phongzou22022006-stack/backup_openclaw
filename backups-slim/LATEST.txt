@@ -1,0 +1,4 @@
+latest_file=openclaw-slim-20260329-101444.enc
+utc_created=20260329-101444
+reason=first-slim-run
+source=slim-backup-workflow
