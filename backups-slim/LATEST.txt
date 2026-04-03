@@ -1,4 +1,4 @@
-latest_file=openclaw-slim-20260329-113838.enc
-utc_created=20260329-113838
-reason=before-add-answeroverflow-hardened-skill
+latest_file=openclaw-slim-20260403-150449.enc
+utc_created=20260403-150449
+reason=before-delete-discord-sessions
 source=slim-backup-workflow
