@@ -1,4 +1,4 @@
-latest_file=openclaw-slim-20260403-150449.enc
-utc_created=20260403-150449
-reason=before-delete-discord-sessions
+latest_file=openclaw-slim-20260403-151546.enc
+utc_created=20260403-151546
+reason=before-telegram-connect
 source=slim-backup-workflow
