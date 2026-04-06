@@ -1,4 +1,4 @@
-latest_file=openclaw-slim-20260403-151546.enc
-utc_created=20260403-151546
-reason=before-telegram-connect
+latest_file=openclaw-slim-20260406-092157.enc
+utc_created=20260406-092157
+reason=slim-manual
 source=slim-backup-workflow
