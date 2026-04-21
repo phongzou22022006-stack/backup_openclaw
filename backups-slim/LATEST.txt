@@ -1,4 +1,4 @@
-latest_file=openclaw-slim-20260419-064846.enc
-utc_created=20260419-064846
+latest_file=openclaw-slim-20260421-062644.enc
+utc_created=20260421-062644
 reason=cron-11am-vn
 source=slim-backup-workflow
